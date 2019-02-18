@@ -23,5 +23,9 @@
         "toastr": "^2.1.4",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.6"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.7.2",
+        "font-awesome": "^4.7.0"
     }
 }
